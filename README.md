@@ -1,5 +1,7 @@
 # Evolved Name Program
 Evolved Name Program is a project for Data Structure course | TCSS 342 | @the University of Washington Tacoma
+<br/>
+Evolved Name Program used my own LinkedList Data Structure and Evolutionary Algorithms.
 
 ## Description
 This program evolves strings in this world until they spell (my) name. A Genome class contains a list 
