@@ -10,11 +10,8 @@ Genomes representing all the strings in our world. Using the principles of
 evolution to allow this population to evolve over generations until one of the strings reaches the target.
 
 ## Getting Started
-- Build the linked list data structure.
-- Efficiently sort a linked list.
-- Follow the specification document exactly.
-- Practice programming and debugging in randomized environments.
-- Explore evolutionary algorithms.
+- Implemented the Evolved Name Program using the LikedList data structure.
+- Practiced programming and debugging in randomized environments and explored evolutionary algorithms.
 
 ## UML Diagram
 <p align="center">
